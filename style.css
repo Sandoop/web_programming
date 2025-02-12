@@ -9,5 +9,7 @@ button{
   padding: 15px 32px;
   text-align: center;
   font-size: 900;
+  margin: 4px 2px;
+  cursor: pointer; 
   
 }
